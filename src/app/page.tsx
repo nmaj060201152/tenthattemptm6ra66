@@ -17,7 +17,7 @@ export default function FirstMileStone(){
   return(
     <>
     <section className='bg-green-500'>
-      <h1>Personal Information</h1>
+      <h1>Meri apni zindagi ki dastaan</h1>
       <p>Name: Saif Ali Khan</p>
       <p>Wife Name: Kareena Kapoor</p>
       <p>Email: abc@gmail.com</p>
